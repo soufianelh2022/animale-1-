@@ -86,12 +86,12 @@
  
 
   
+   
   "more_apps_info":[
-  {"name":"title1","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title2","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title3","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title4","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title5","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"app 1","package_name":"net.zedge.android","icon":"https://play-lh.googleusercontent.com/aNpjlS1-FYod8rvew1_EFosRm5fFK4d8-g-JFt7d9pimPAyQus1com9u8aGmLGfrRA=w240-h480-rw"},
+  {"name":"Parallax: 4K 3D Live Wallpaper","package_name":"com.wallpaperscraft.wallpaperscraft_parallaxt","icon":"https://play-lh.googleusercontent.com/3I1ZLKJzueJ3zMpqNzOLoAV9fg817xSJJamtJ6EtYSkMgB2rbVKfhPsBHrKNe54FNg=w240-h480-rw"},
+  {"name":"Wallpaper 4K - Wallpapers Club","package_name":"com.wallpapersclub.wallpaper","icon":"https://play-lh.googleusercontent.com/IVasOYU_snpd7o9MFrVycTVeraFqSC-vQgpBKt3vysfdcqlKipTQpB9WpgFlYZ7zak8=w240-h480-rw"},
+ {"name":"Wallpaper 4K - Wallpapers Club","package_name":"com.wallpapersclub.wallpaper","icon":"https://play-lh.googleusercontent.com/IVasOYU_snpd7o9MFrVycTVeraFqSC-vQgpBKt3vysfdcqlKipTQpB9WpgFlYZ7zak8=w240-h480-rw"}
    ]
  
 }
